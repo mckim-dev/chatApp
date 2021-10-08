@@ -1,0 +1,2 @@
+module ChatforumHelper
+end
